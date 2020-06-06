@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", sans-serif;
+    overflow: hidden;
+}
+
+body{
+    background: linear-gradient(45deg, #0790b8 0%, #00ff88 100%);
+    background-attachment: fixed;
+}
+
+/* to target class/id:
+id: use #idname{}
+class: .classname{}
+
+margin: space around element
+padding: space inside element
+^if there are 2 values inside padding- top&bottom then left&right
+*/
